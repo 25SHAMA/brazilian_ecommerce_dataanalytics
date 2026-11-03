@@ -49,7 +49,6 @@ Among reviewed late deliveries, 54.02% received low ratings, compared with 9.19%
 - `powerbi/` – Interactive Power BI dashboard.
 - `documentation/` – Executive summary, data model documentation, recommendations, and schema diagram.
 - `python_outputs/` – Outputs generated during Python analysis.
-- `walkthrough/` – Project presentation video, if hosted externally or included as a manageable file.
 
 ## Dataset
 The project uses the Olist Brazilian E-Commerce Public Dataset. The original data contains multiple related tables covering customers, orders, products, sellers, payments, reviews, and geographical information.
